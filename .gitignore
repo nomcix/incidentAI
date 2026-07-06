@@ -1,0 +1,158 @@
+## Build results
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+## Visual Studio / Rider
+.vs/
+.idea/
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.userprefs
+
+## Visual Studio cache/options
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+## Build artifacts
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Ww][Ii][Nn]32/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]uild/
+msbuild.log
+msbuild.err
+msbuild.wrn
+
+## NuGet
+*.nupkg
+*.snupkg
+**/[Pp]ackages/*
+!**/[Pp]ackages/build/
+*.nuget.props
+*.nuget.targets
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+## .NET Core / ASP.NET
+project.assets.json
+project.nuget.cache
+*.dll
+*.exe
+*.pdb
+*.cache
+*.ilk
+*.meta
+*.obj
+*.iobj
+*.pch
+*.ipdb
+*.pgc
+*.pgd
+*.rsp
+*.sbr
+*.tlb
+*.tli
+*.tlh
+*.tmp
+*.tmp_proj
+*_i.c
+*_p.c
+*_h.h
+*.vspscc
+*.vssscc
+.builds
+*.pidb
+*.svclog
+*.scc
+
+## Test results
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+*.trx
+*.coverage
+*.coveragexml
+TestResult.xml
+nunit-*.xml
+BenchmarkDotNet.Artifacts/
+
+## ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+## Azure / publish
+*.pubxml
+*.publishproj
+PublishScripts/
+publish/
+
+## Windows
+[Tt]humbs.db
+[Ee]hthumbs.db
+[Dd]esktop.ini
+$RECYCLE.BIN/
+*.cab
+*.msi
+*.msix
+*.msm
+*.msp
+
+## macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+## Secrets and local config
+appsettings.Development.json
+appsettings.Local.json
+secrets.json
+*.pfx
+*.key
+.env
+.env.*
+!.env.example
+
+## Local notes (not committed)
+notes/
+
+## JetBrains Rider
+*.sln.iml
+
+## NCrunch
+_NCrunch_*
+.*crunch*.local.xml
+nCrunchTemp_*
+
+## DotCover
+*.dotCover
+
+## ReSharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+
+## StyleCop
+StyleCopReport.xml
+
+## Local History (VS extension)
+.localhistory/
+
+## Ionide (F#)
+.ionide/
+
+## Fody
+FodyWeavers.xsd
